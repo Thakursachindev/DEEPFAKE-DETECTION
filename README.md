@@ -1,6 +1,5 @@
 # Deepfake Detection using Deep Learning
 
-[Deepfake AI]
 
 
 
