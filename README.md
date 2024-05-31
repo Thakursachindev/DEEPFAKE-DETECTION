@@ -43,4 +43,4 @@ Include some results or metrics to demonstrate the performance of your model. Th
 
 
 
-NOTE: KANDI KIT INSTALLER IS NECESSARY TO RUN THIS DEEPFAKE DETECTION FILE.
+### Note: Kandi Kit Installer Is Necessary  To Run This Deepfake Detection File.
